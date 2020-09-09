@@ -1,5 +1,3 @@
-//Meu primeiro projeto java <3
-
 package application;
 
 import java.util.ArrayList;
